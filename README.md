@@ -12,4 +12,10 @@ Co-Author: Sean Lopp & Alex Gold
 
 https://colorado.rstudio.com/rsc/ManagingMultipleVersionsofRClinical/MultipleVersionsofR.html#1
 
-## Paper
+## Paper Download
+
+https://github.com/philbowsher/Managing-Multiple-Versions-of-R-in-a-Clinical-Environment/raw/main/Managing%20Multiple%20Versions%20of%20R%20in%20a%20Clinical%20Environment.pdf
+
+## Presenation Download
+
+
