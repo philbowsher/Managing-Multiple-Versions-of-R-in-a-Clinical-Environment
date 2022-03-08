@@ -4,10 +4,15 @@ Phuse US Connect 2021
 Paper for Presentation AS01 Managing Multiple Versions of R  in a Clinical Environment
 
 Presentation No: AS01
+
 Title: Managing Multiple Versions of R in a Clinical Environment
+
 Stream: Analytics, Big Data & Statistics (AS)
+
 Presenting Author: Phil Bowsher
+
 Main Author: Phil Bowsher 
+
 Co-Author: Sean Lopp & Alex Gold
 
 ## Presentation
